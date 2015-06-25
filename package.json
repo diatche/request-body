@@ -1,0 +1,15 @@
+{
+  "name": "request-body",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "*",
+    "promise": "*"
+  },
+  "description": "A convenience extension to npm-request by support promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Diatchenko diatche@gmail.com",
+  "license": "ISC"
+}
